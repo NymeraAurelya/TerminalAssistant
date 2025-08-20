@@ -1,1 +1,9 @@
-Feel free to use/modify/change this program fo its just for fun and kind of a biography of how i learn Python. :) 
+# Terminal Assistant
+
+This is a fun little Python project I made to help me learn programming.  
+It runs in the terminal and can:
+- Tell jokes
+- Tell the current time
+- Do basic calculations (like adding two numbers)
+
+I made it just for fun and learning, but feel free to check it out or give feedback!
