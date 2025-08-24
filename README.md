@@ -5,5 +5,6 @@ It runs in the terminal and can:
 - Tell jokes
 - Tell the current time
 - Do basic calculations (like adding two numbers)
+- Counts down! :D (broken 08/24/25)
 
 I made it just for fun and learning, but feel free to check it out or give feedback!
