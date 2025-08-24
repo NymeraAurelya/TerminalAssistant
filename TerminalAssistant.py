@@ -22,6 +22,10 @@ time.sleep(1)
 
 print("3. Tell me a joke")
 
+time.sleep(1)
+
+print("4. Countdown for me")
+
 choice = input("Input:")
 
 if choice == "1":
@@ -48,3 +52,51 @@ elif choice == "3":
         print("Why are you even asking? Im a terminal asistant, not your mailman! XD")
     else:
         print("You're supposed to say 'who's there?'")
+
+elif choice == "4":
+    a = int(print("Starting number:"))
+    b = int(print("Ending number:"))
+    while a <= b:
+        print(a)
+        time.sleep(1)
+        a = a + 1
+        print("Done!")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
