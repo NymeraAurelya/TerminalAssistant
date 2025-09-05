@@ -54,8 +54,8 @@ elif choice == "3":
         print("You're supposed to say 'who's there?'")
 
 elif choice == "4":
-    a = int(print("Starting number:"))
-    b = int(print("Ending number:"))
+    a = int(input("First number:"))
+    b = int(input("Ending number:"))
     while a <= b:
         print(a)
         time.sleep(1)
